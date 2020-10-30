@@ -1,9 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?> //decleration 
 
-<Technicalbooks> 
-<book isbn-13="978-0131774292" isbn-10="0131774298"> 
-<title>Python Programming</title> 
-<publisher>Prentice Hall</publisher> 
-<author>Peter van der Linden</author> 
-</book>
-</technicalbooks>
+<library>
+	<book category ="Technical">
+		<title>Python Programming</title> 
+		<publisher>Prentice Hall</publisher> 
+		<author>Peter van der Linden</author> 
+	</book>
+	<book category="technicalbooks">
+		<title>Python Programming</title> 
+		<publisher>Prentice Hall</publisher> 
+		<author>Peter van der Linden</author> 
+	</book>
+	<book category="cooking">
+		<title>Python Programming</title> 
+		<publisher>Prentice Hall</publisher> 
+		<author>Peter van der Linden</author> 
+	</book>
+	<book category="cooking">
+		<title>Python Programming</title> 
+		<publisher>Prentice Hall</publisher> 
+		<author>Peter van der Linden</author> 
+	</book>
+</library>
