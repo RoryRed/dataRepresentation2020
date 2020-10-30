@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<library>
+	<book category ="Technical">
+		<title>Python Programming : The Ultimate Beginners Guide to Master Python Programming Step-By-Step with Practical Exercises</title> 
+		<ISBN10>164771088X</ISBN10>
+		<ISBN13>9781647710880</ISBN13>
+		<author>Mark Reed</author> 
+	</book>
+	<book category="Technicals">
+		<title>Effective Java</title> 
+		<ISBN10>0134685997</ISBN10>
+		<ISBN13>9780134685991</ISBN13>
+		<author>Joshua Bloch</author> 
+	</book>
+	<book category="cooking">
+		<title>Gordon Ramsay's Ultimate Cookery Course</title> 
+		<ISBN10>1444780786</ISBN10>
+		<ISBN13>9781444780789</ISBN13>
+		<author>Gordon Ramsay</author> 
+	</book>
+	<book category="cooking">
+		<title>Mary Berry Cookery Course : A Step-by-Step Masterclass in Home Cooking</title> 
+		<ISBN10>024120688X</ISBN10>
+		<ISBN13> 9780241206881</ISBN13>
+		<author> Mary Berry</author> 
+	</book>
+</library>
